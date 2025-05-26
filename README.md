@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @chadiro-id
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: sleeping -> coding -> sleeping
+___
+
+# Hello World! I am Chadiro 👋
+
+I have a strong interest in programming.
+I continue to learn and improve my skills in this area.
+___
 
 <!---
 chadiro-id/chadiro-id is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
