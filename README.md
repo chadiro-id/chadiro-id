@@ -1,6 +1,6 @@
 ___
 
-# Hello World! I am Chadiro 👋
+# Hello World! 👋 I am Chadiro
 
 I have a strong interest in programming.  
 I continue to learn and improve my skills in this area.
